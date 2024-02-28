@@ -50,6 +50,7 @@ form .display{
     margin: 20px 0;
 
 }
+
 form .display input{
     text-align: right;
     flex:1;
@@ -57,6 +58,7 @@ form .display input{
     box-shadow: none;
 
 }
+
 
 form input.equal{
     width: 145px;
