@@ -107,7 +107,7 @@ form input.operator:hover{
 }
 
 /* Responsive for Extra Small Screens */
-@media (max-width: 360px) {
+@media (body) {
     .calculator {
         padding: 10px;
     }
